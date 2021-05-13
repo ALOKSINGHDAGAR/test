@@ -1,0 +1,10 @@
+{
+  "simulation": "ComputerWorld",
+  "simulationId": "computerworld",
+  "start": 1620905798917,
+  "description": "",
+  "scenarios": ["Computer Scenario"],
+  "assertions": [
+
+  ]
+}
